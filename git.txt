@@ -1,0 +1,11 @@
+echo "# Data_Structures_and_Algorithms_in_Python_learning" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ashisharora24/Data_Structures_and_Algorithms_in_Python_learning.git
+git push -u origin master
+
+-------------------------------------------
+git add .
+git commit -m "added json_python in chapter21 and difflib in chapter 14"
+git push -u origin master
